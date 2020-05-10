@@ -1,1 +1,1 @@
-# personel-blog-udacity-project-1
+# personal-blog-udacity-project-1
